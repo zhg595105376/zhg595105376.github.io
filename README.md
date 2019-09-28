@@ -17,8 +17,8 @@
 Type theme comes with different customizations in the `_config.yml` file:
 
 ```sh
-title:       Type
-email:       ''
+title:       光光的博客
+email:       'zhg595105376@gmail.com'
 description: ''
 baseurl:     '' # The subpath of your site, e.g. /blog
 url:         '' # The base hostname & protocol for your site
